@@ -1,8 +1,8 @@
 # File Name: main.py
-# Student Name: Collin Baines / 
-# email: bainesct@mail.uc.edu /
+# Student Name: Collin Baines / Vanshika Rana
+# email: bainesct@mail.uc.edu / ranava@mail.uc.edu
 # Assignment Number: Assignment 11
-# Due Date: 04/17/2025
+# Due Date: 04/17/2025 
 # Course #/Section: IS4010-002
 # Semester/Year: Spring/2025
 # Brief Description of the assignment: This assignment requires us to manipulate data within csv files and retrieve information from a given API.
